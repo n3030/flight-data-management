@@ -1,0 +1,10 @@
+Dubai - London, 700
+Dubai - New York, 1000
+Dubai - Sydney, 1200
+Dubai - Tokyo, 1300
+Dubai - Paris, 800
+Dubai - Los Angeles, 1500
+Dubai - Mumbai, 600
+Dubai - Singapore, 1100
+Dubai - Istanbul, 900
+Dubai - Beijing, 1400

@@ -1,0 +1,10 @@
+Toronto - Paris, 800
+Toronto - Chicago, 900
+London - Delhi, 1200
+Toronto - Tokyo, 1500
+Montreal - London, 1100
+Vancouver - Beijing, 1600
+Calgary - Sydney, 1800
+Toronto - Dubai, 1700
+Ottawa - Rome, 1400
+Vancouver - New York, 1000

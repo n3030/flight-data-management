@@ -1,0 +1,10 @@
+New York - Los Angeles, 400
+Chicago - San Francisco, 300
+Washington D.C. - Miami, 250
+Denver - Seattle, 350
+Houston - Las Vegas, 450
+Boston - Orlando, 350
+San Francisco - Honolulu, 600
+Dallas - Phoenix, 320
+Seattle - Anchorage, 500
+Atlanta - New Orleans, 200

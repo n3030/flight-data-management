@@ -1,0 +1,10 @@
+Paris - New York, 1000
+Paris - Tokyo, 1500
+Paris - Dubai, 1200
+Paris - London, 800
+Paris - Los Angeles, 1400
+Paris - Sydney, 2000
+Paris - Rome, 900
+Paris - Beijing, 1700
+Paris - Madrid, 700
+Paris - Berlin, 850

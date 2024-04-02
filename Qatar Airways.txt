@@ -1,0 +1,10 @@
+Doha - London, 900
+Doha - New York, 1100
+Doha - Bangkok, 800
+Doha - Dubai, 500
+Doha - Tokyo, 1300
+Doha - Paris, 1000
+Doha - Singapore, 1200
+Doha - Sydney, 1500
+Doha - Mumbai, 700
+Doha - Istanbul, 600

@@ -1,0 +1,10 @@
+Frankfurt - New York, 1000
+Frankfurt - Tokyo, 1500
+Frankfurt - Dubai, 1200
+Frankfurt - London, 800
+Frankfurt - Los Angeles, 1400
+Frankfurt - Sydney, 2000
+Frankfurt - Rome, 900
+Frankfurt - Beijing, 1700
+Frankfurt - Madrid, 700
+Frankfurt - Paris, 850

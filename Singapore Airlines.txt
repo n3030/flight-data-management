@@ -1,0 +1,10 @@
+Singapore - London, 1200
+Singapore - New York, 1500
+Singapore - Tokyo, 1000
+Singapore - Sydney, 800
+Singapore - Dubai, 900
+Singapore - Paris, 1100
+Singapore - Los Angeles, 1400
+Singapore - Mumbai, 700
+Singapore - Bangkok, 400
+Singapore - Hong Kong, 300

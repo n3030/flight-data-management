@@ -1,0 +1,10 @@
+New York - Los Angeles, 500
+Chicago - Miami, 400
+Dallas - San Francisco, 450
+Atlanta - Denver, 350
+Los Angeles - Seattle, 300
+Miami - Boston, 350
+San Francisco - New York, 550
+Denver - Chicago, 300
+Seattle - Dallas, 400
+Boston - Atlanta, 350

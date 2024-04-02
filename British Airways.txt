@@ -1,0 +1,10 @@
+London - New York, 900
+London - Los Angeles, 1100
+London - Dubai, 800
+London - Hong Kong, 1200
+London - Sydney, 1500
+London - Tokyo, 1300
+London - Paris, 300
+London - Rome, 400
+London - Madrid, 500
+London - Amsterdam, 200

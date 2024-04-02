@@ -1,0 +1,10 @@
+Toronto - Vancouver, 600
+Calgary - Toronto, 400
+Edmonton - Winnipeg, 300
+Montreal - Halifax, 350
+Ottawa - Saskatoon, 450
+Victoria - Regina, 500
+Quebec City - St. John's, 700
+Winnipeg - Yellowknife, 550
+Halifax - Charlottetown, 200
+Saskatoon - Whitehorse, 650
